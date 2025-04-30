@@ -15,6 +15,7 @@ A collection of leetcode problems and my solutions.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mritunjay-255/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mritunjay-255/Leetcode/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mritunjay-255/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -41,6 +42,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
