@@ -7,6 +7,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of leetcode problems and my solutions.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
