@@ -78,6 +78,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting
@@ -93,6 +94,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mritunjay-255/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mritunjay-255/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -114,4 +116,8 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
