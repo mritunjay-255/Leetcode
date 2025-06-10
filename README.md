@@ -88,10 +88,12 @@ A collection of leetcode problems and my solutions.
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0229-majority-element-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of leetcode problems and my solutions.
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mritunjay-255/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
