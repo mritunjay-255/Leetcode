@@ -64,6 +64,7 @@ A collection of leetcode problems and my solutions.
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3830-find-closest-person](https://github.com/mritunjay-255/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
