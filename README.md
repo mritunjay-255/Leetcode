@@ -131,6 +131,7 @@ A collection of leetcode problems and my solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mritunjay-255/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
+| [0908-middle-of-the-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
