@@ -27,6 +27,7 @@ A collection of leetcode problems and my solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/mritunjay-255/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mritunjay-255/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mritunjay-255/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -63,6 +64,7 @@ A collection of leetcode problems and my solutions.
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mritunjay-255/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/mritunjay-255/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
