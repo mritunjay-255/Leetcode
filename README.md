@@ -33,6 +33,7 @@ A collection of leetcode problems and my solutions.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mritunjay-255/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mritunjay-255/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
@@ -71,6 +72,7 @@ A collection of leetcode problems and my solutions.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mritunjay-255/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mritunjay-255/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3830-find-closest-person](https://github.com/mritunjay-255/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -201,4 +203,8 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
