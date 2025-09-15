@@ -134,6 +134,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mritunjay-255/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mritunjay-255/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
@@ -144,6 +145,7 @@ A collection of leetcode problems and my solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/mritunjay-255/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Two Pointers
